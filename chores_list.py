@@ -1,6 +1,8 @@
 Wake Up
-Sleep
-Wash
+Exercise
+Brush
+Bath
+Eat
 Play
 Read
 Run
