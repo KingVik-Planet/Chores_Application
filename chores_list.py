@@ -6,4 +6,5 @@ Eat
 Play
 Read
 Run
-Jog
+Eat.
+Sleep
