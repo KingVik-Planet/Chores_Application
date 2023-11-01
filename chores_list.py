@@ -6,5 +6,5 @@ Eat
 Play
 Read
 Run
-Eat.
+Code
 Sleep
