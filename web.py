@@ -13,7 +13,7 @@ def add_chore():
 
 
 st.title("The Chores List App")
-st.subheader("Write The Chores of the day")
+st.subheader("Write and Manage The Chores of the day")
 st.write("This app is created to give Daily Chores and Increase Productivity")
 
 for index, chore in enumerate(chores):
