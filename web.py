@@ -14,7 +14,9 @@ def add_chore():
 
 st.title("The Chores List App")
 st.subheader("Write and Manage The Chores of the day")
-st.write("This app is created to give Daily Chores and Increase Productivity")
+st.write("This app is created to give Daily Chores and Increase Productivity"
+         "To add Chore, Type in Chore and Press Enter"
+         "If you have Completed a particular Chore, Check the Chore to Delete")
 
 for index, chore in enumerate(chores):
 
