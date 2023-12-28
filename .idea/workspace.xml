@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bedd739-7a87-4bcb-885c-cded51b8d517" name="Changes" comment="Changes">
       <changelist_data name="https://github.com/KingVik-Planet/MWB_Web_APP" email="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/KingVik Planet/PycharmProjects/MWB_Chore_App",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "vcs.Git"

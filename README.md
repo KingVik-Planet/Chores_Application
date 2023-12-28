@@ -68,4 +68,4 @@ A Chores List App is designed to help individuals or households organize and man
 * Enable users to access and update their chores list even when offline.
 
 18. Customer Support:
-* Include a support system for users to report issues or seek assistance.
+* Include a support system for users to report issues or seek assistance, etc.
